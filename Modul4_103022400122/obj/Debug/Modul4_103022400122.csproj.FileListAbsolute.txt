@@ -1,0 +1,7 @@
+C:\Users\Acer\Downloads\Modul4_103022400122\Modul4_103022400122\bin\Debug\Modul4_103022400122.exe.config
+C:\Users\Acer\Downloads\Modul4_103022400122\Modul4_103022400122\bin\Debug\Modul4_103022400122.exe
+C:\Users\Acer\Downloads\Modul4_103022400122\Modul4_103022400122\bin\Debug\Modul4_103022400122.pdb
+C:\Users\Acer\Downloads\Modul4_103022400122\Modul4_103022400122\obj\Debug\Modul4_103022400122.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Modul4_103022400122\Modul4_103022400122\obj\Debug\Modul4_103022400122.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Modul4_103022400122\Modul4_103022400122\obj\Debug\Modul4_103022400122.exe
+C:\Users\Acer\Downloads\Modul4_103022400122\Modul4_103022400122\obj\Debug\Modul4_103022400122.pdb
